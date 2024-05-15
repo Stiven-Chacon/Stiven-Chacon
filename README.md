@@ -56,7 +56,7 @@
       alt="react" width="40" height="40" /> </a> 
       <a href="https://angular.io/docs" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"
       height="40" /> </a>
