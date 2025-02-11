@@ -15,7 +15,7 @@
 
 - 💻 Enthusiast for new technologies
   
-- ☁️ I have great interest in cloud computing. So, I'm learning AWS
+- ☁️ I have great interest in cloud computing. So, I'm learning GCP
 
 <br>
 
