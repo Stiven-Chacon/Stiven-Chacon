@@ -1,68 +1,52 @@
-<h1 align="center">Hi 👋, I'm Stiven Chacon</h1>
-<h3 align="center">Software Developer🌟.</h3>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0ea5e9&height=130&section=header&text=Stiven%20Chac%C3%B3n&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Desarrollador%20de%20Software%20Full-Stack&descSize=17&descColor=e0f2fe&descAlignY=68" width="100%" />
 
+<a href="https://github.com/Stiven-Chacon">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1800&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=React+%C2%B7+Angular+%C2%B7+TypeScript+%C2%B7+Node.js;Aplicaciones+web+y+m%C3%B3viles;Aprendiendo+Arquitectura+Hexagonal+y+Clean" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+![Ubicación](https://img.shields.io/badge/Colombia-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white)
+![Estado](https://img.shields.io/badge/Abierto_a_oportunidades-14b8a6?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a8a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-chac%C3%B3n-bb4506281)
+[![Correo](https://img.shields.io/badge/Correo-0369a1?style=flat-square&logo=gmail&logoColor=white)](mailto:stivenchacon031@gmail.com)
 
+</div>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+---
 
-- 📫 How to reach me **stivenchacon031@gmail.com**
+### Sobre mí
 
-- 💻 Enthusiast for new technologies
-  
-- ☁️ I have great interest in cloud computing. So, I'm learning GCP
+Desarrollo aplicaciones web y móviles con React, Angular, TypeScript y Node.js. Me interesa el código limpio, mantenible y bien estructurado, y construir productos útiles de principio a fin: desde la interfaz hasta la API.
 
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https:linkedin.com/in/stiven-chacón-bb4506281" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
- </p>
+### Tecnologías
 
-<br>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> 
-    </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" />
-    </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> 
-      <a href="https://angular.io/docs" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40"
-      height="40" /> </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"
-      height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40"
-      height="40" /> </a>
-      
+<img src="https://skillicons.dev/icons?i=react,angular,ts,nodejs,express,tailwind,firebase,mysql,git,github,gcp,postman&perline=12" alt="Tecnologías" />
+<br/>
 
-<br>
+</div>
+
+---
+
+### Áreas de trabajo
+
+- **Frontend:** interfaces responsivas con React, Angular y Tailwind CSS.
+- **Backend:** APIs REST con Node.js y Express, con bases de datos Oracle y MySQL.
+- **Móvil:** aplicaciones multiplataforma con React Native y Firebase.
+- **Integraciones:** servicios de terceros como OpenAI y Google Maps.
+
+---
+
+### Aprendiendo actualmente
+
+- Arquitectura Hexagonal y Clean Architecture
+- Google Cloud Platform (GCP)
+- Buenas prácticas de diseño de software con TypeScript
+
+---
