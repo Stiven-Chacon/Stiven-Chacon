@@ -37,7 +37,7 @@ Desarrollo aplicaciones web y móviles con React, Angular, TypeScript y Node.js.
 ### Áreas de trabajo
 
 - **Frontend:** interfaces responsivas con React, Angular y Tailwind CSS.
-- **Backend:** APIs REST con Node.js y Express, con bases de datos Oracle y MySQL.
+- **Backend:** APIs REST con Node.js y Express, con bases de datos MySQL.
 - **Móvil:** aplicaciones multiplataforma con React Native y Firebase.
 - **Integraciones:** servicios de terceros como OpenAI y Google Maps.
 
