@@ -72,10 +72,7 @@ Como complemento, tengo experiencia en **backend** (APIs REST con Node.js, bases
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Stiven-Chacon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven-Chacon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stiven-Chacon&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stiven-Chacon&theme=tokyonight" width="100%" />
 
 </div>
 
