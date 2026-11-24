@@ -63,7 +63,6 @@ Como complemento, tengo experiencia en **backend** (APIs REST con Node.js, bases
 ## 📚 Aprendiendo actualmente
 
 - Arquitectura Hexagonal y Clean Architecture
-- TypeScript aplicado a proyectos reales
 - Buenas prácticas de diseño de software
 
 ---
